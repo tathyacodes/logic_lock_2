@@ -108,7 +108,3 @@ The project includes 35 automated tests verifying:
 - **Gameplay Loops:** Verifies incorrect placement feedback, incomplete lock blocking, and victory completion triggers.
 
 ---
-
-## License
-
-MIT License — Built for students, educators, and puzzle enthusiasts.
